@@ -55,8 +55,8 @@ ML_Project/
 
 ### 1. Clone the repository
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd ML_Project
+git clone https://github.com/mdomarabd/FraudShield.git
+cd FraudShield
 ```
 
 ### 2. Set up virtual environment
@@ -88,3 +88,4 @@ streamlit run app.py
 ## 📜 Dataset Reference
 - Dataset: [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - Transactions made by European cardholders in September 2013 (492 frauds out of 284,807 transactions).
+
