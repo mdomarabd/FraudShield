@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Raw Datasets (GitHub rejects files > 100MB)
+data/raw/creditcard.csv
+data/raw/*.zip
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# OS generated files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Environment variables
+.env
